@@ -67,6 +67,15 @@
         <mxCell id="BB3gbroHE7xtjv3Sknmu-21" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="720" width="70" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="BB3gbroHE7xtjv3Sknmu-22" value="菜品分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3gbroHE7xtjv3Sknmu-23" value="菜品分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="406" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BB3gbroHE7xtjv3Sknmu-24" value="菜品分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

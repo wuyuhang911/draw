@@ -41,13 +41,13 @@
           <mxGeometry x="270" y="560" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="BB3gbroHE7xtjv3Sknmu-13" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="560" width="70" height="150" as="geometry" />
+          <mxGeometry x="650" y="560" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="BB3gbroHE7xtjv3Sknmu-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="890" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="BB3gbroHE7xtjv3Sknmu-15" value="管理后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="880" width="70" height="170" as="geometry" />
+          <mxGeometry x="650" y="890" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="BB3gbroHE7xtjv3Sknmu-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1080" width="450" height="60" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="270" y="730" width="360" height="150" as="geometry" />
         </mxCell>
         <mxCell id="BB3gbroHE7xtjv3Sknmu-21" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="720" width="70" height="150" as="geometry" />
+          <mxGeometry x="650" y="730" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="BB3gbroHE7xtjv3Sknmu-22" value="菜品分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="130" width="100" height="40" as="geometry" />
